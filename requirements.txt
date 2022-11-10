@@ -1,0 +1,5 @@
+tensorflow_gpu
+tensorflow_addons
+scikit-learn
+matplotlib
+seaborn
